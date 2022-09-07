@@ -1,6 +1,6 @@
 package JobOffers;
 
-public class MilosTestCase1 {
+public class Milos_TC1 {
 
     // MilosTestCase1 created
 
